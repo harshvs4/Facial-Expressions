@@ -26,7 +26,7 @@ This code converts the facial expressions into emojis from one of the seven cate
 * Create an Environment and name it **tensorflow**
 * Install the ```TensorFlow``` package(2.4.0)
 * After ```TensorFlow``` is installed, install the ```Keras``` and the ```OpenCV``` package
-* Install the Command prompt for the **tensorflow** environment and use it for this project
+* Install the Command prompt for the **tensorflow** environment and use it to train and run the models
 
 ## ImageMagicK Installation
 
